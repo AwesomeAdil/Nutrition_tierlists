@@ -1,0 +1,6 @@
+Calories: 40
+Protein: 1g
+Fat: 3g
+Carbs: 3g
+Sugar: 2g
+Fiber: 1g

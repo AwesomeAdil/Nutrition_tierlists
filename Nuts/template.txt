@@ -1,0 +1,8 @@
+Calories: 510
+Protein: 10g
+Fat: 31g
+SF: 4g
+MUF: 20g
+PUF: 6g
+Carbs: 54g
+Fiber: 14g
